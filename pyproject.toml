@@ -10,7 +10,6 @@ discord = "^1.7.3"
 google-api-python-client = "^2.12.0"
 Flask = "^2.0.1"
 discord-py-slash-command = "^3.0.3"
-build = "^0.7.0"
 pyfiglet = "^0.8.post1"
 [tool.poetry.dev-dependencies]
 
