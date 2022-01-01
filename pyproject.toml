@@ -2,7 +2,7 @@
 name = "Imagebot"
 version = "0.1.0"
 description = ""
-authors = ["RLX <contactrlxop@gmail.com>","MathIsCool <>"]
+authors = ["RLX <contactrlxop@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
