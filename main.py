@@ -30,7 +30,7 @@ async def on_ready():
     await client.change_presence(activity=discord.Activity(
         type=discord.ActivityType.watching,
         name='Image Bot || Made by RLX'))
-    print("Bot Is Online")
+    print('Bot Is Online')
 
 
 # -- Command -- #
