@@ -13,7 +13,7 @@
 
 <br/>
 
-- in `.env` Adjust the TOKEN
+- in `.env` Add your bot ```TOKEN```
 - `python main.py` to start the Bot
 <br/>
 
@@ -25,14 +25,8 @@
 You can support us by joining our **DISCORD SERVERS**
 - **RLX:**
 [https://discord.com/invite/SN3mZPxjEW](https://discord.com/invite/SN3mZPxjEW)
-- **Bots University:**
-[https://discord.io/botsuniversity](https://discord.io/botsuniversity)
 - **Milrato Development:**
 [https://discord.gg/milrato](https://discord.gg/milrato)
 
 ## Project Owner:
 **RLX#9279** - https://discord.com/invite/SN3mZPxjEW
-
-
-## Main Contributors:
-**MathisCool#8659** - https://discord.io/botsuniversity
