@@ -30,3 +30,6 @@ You can support us by joining our **DISCORD SERVERS**
 
 ## Project Owner:
 **RLX#9279** - https://discord.com/invite/SN3mZPxjEW
+
+## Project Helper:
+**MathisCool#8659** - https://discord.io/botsuniversity
