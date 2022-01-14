@@ -50,7 +50,7 @@ async def image(ctx: SlashContext, *, search: str):
                            searchType="image").execute()
     url = result['items'][ran]['link']
     embed = Embed(
-        title=f'Here's Your Search Result For **({search.title()})**')
+        title=f'Here Is Your Search Result For **({search.title()})**')
     embed.set_image(url=url)
     await ctx.send(search, embed=embed)
 
