@@ -14,7 +14,7 @@ banner = figlet_format('IMAGE\n BOT')
 print(banner)
 
 
-# -- Webserver to host it you can host it uptimerobot.com or remove it if you dont want to use -- #
+# -- Webserver to host it you can host it "uptimerobot.com" or remove it if you dont want to use -- #
 from webserver import keep_alive
 
 
