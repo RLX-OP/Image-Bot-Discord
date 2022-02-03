@@ -29,7 +29,7 @@ api_key = "AIzaSyABKQ8N0zoh3JSz0PM6QrhG-jbmh-Tw9d4"
 async def on_ready():
     await client.change_presence(
         activity=discord.Activity(
-            type=discord.ActivityType.watching, name="Image Bot || Made by RLX" # Do not remove "Made by RLX" as 
+            type=discord.ActivityType.watching, name="Image Bot || Made by RLX" # Do not remove "Made by RLX" please...
         )
     )
     print("Bot Is Online")
