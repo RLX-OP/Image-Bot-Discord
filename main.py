@@ -7,7 +7,7 @@ from discord_slash.utils.manage_commands import create_option
 from googleapiclient.discovery import build
 
 
-# -- Logs "IMAGE BOT" Text in Console -- #
+# -- Logs "IMAGE BOT" Text in Console it looks cool 🤩 -- #
 from pyfiglet import figlet_format
 
 banner = figlet_format("IMAGE\n BOT")
@@ -24,12 +24,12 @@ slash = SlashCommand(client)
 api_key = "AIzaSyABKQ8N0zoh3JSz0PM6QrhG-jbmh-Tw9d4"
 
 
-# -- Messages In Console When Bot Get's Logged In   Bot Status -- #
+# -- Sets bot activity and prints "Bot Is Online" when the bot is online  -- #
 @client.event
 async def on_ready():
     await client.change_presence(
         activity=discord.Activity(
-            type=discord.ActivityType.watching, name="Image Bot || Made by RLX"
+            type=discord.ActivityType.watching, name="Image Bot || Made by RLX" # Do not remove "Made by RLX" as 
         )
     )
     print("Bot Is Online")
